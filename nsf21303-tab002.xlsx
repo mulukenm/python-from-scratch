@@ -11,8 +11,8 @@
 	<link rel="preload" as="font" type="font/woff2" href="/resources/assets/fonts/fontawesome-webfont.woff2?v=4.7.0" crossorigin="true"/>
 	<meta name="description" content="The detailed statistical tables in this report present data from the Annual Business Survey (ABS). The ABS is the primary source of data on research and development of for profit, nonfarm businesses with one to nine employees operating in the 50 U.S. states and the District of Columbia. The ABS also collects data on innovation, technology, intellectual property, and business owner characteristics of business of all sizes. The survey is conducted annually by the Census Bureau for the National Center for Science and Engineering Statistics within the National Science Foundation."/>
 	<meta name="author" content="Audrey Kindlon"/>
-	<link rel="stylesheet" href="/resources/assets/css/dst/dst.css?v=1.69.9" />
-	<script src="/resources/assets/js/dst/dst.concat.js?v=1.69.9"></script>
+	<link rel="stylesheet" href="/resources/assets/css/dst/dst.css?v=1.78.1" />
+	<script src="/resources/assets/js/dst/dst.concat.js?v=1.78.1"></script>
 	<title>Annual Business Survey: Tables for Data Year 2017 | NSF - National Science Foundation</title>
 </head>
 
@@ -64,7 +64,6 @@
 	<div id="searchbarmobilecontainer" style="display: none;"></div>
 	<div class="row hidden-print">
 		<div class="col-md-12">
-			<a id="skip-link"  href="#skip-link-destination" class="sr-only sr-only-focusable" rel="noopener" tabindex="0">Skip to main content</a>
 		  <!-- top nav --> <div class="navbar navbar-default navbar-static-top main navbar-collapse collapse" id="navbarid">
 				<div>
 					<ul class="nav nav-justified">
@@ -254,7 +253,7 @@
 				<li class="dropdown open">
 					<a  href="//www.nsf.gov/statistics" class="dropdown-toggle" role="button" aria-expanded="true" rel="noopener" tabindex="0">National Center for Science and Engineering Statistics&nbsp;(NCSES)</a>
 					<ul class="dropdown-list" role="menu">
-						<li role="menuitem"><a  href="//www.nsf.gov/statistics/about-ncses.cfm" rel="noopener" tabindex="0">About NCSES</a></li>
+						<li role="menuitem"><a  href="/about" rel="noopener" tabindex="0">About NCSES</a></li>
 						<li role="menuitem"><a  href="//www.nsf.gov/statistics/data.cfm" rel="noopener" tabindex="0">Data</a></li>
 						<li role="menuitem"><a  href="//www.nsf.gov/statistics/reports.cfm" rel="noopener" tabindex="0">Publications</a></li>
 						<li role="menuitem"><a  href="//www.nsf.gov/statistics/surveys.cfm" rel="noopener" tabindex="0">Surveys</a></li>
@@ -287,7 +286,7 @@
 						</form>
 					</li>             
 					<li class="rssMenu"><a  href="//www.nsf.gov/statistics/rss/srs_rss.xml" title="NCSES RSS Feed" rel="noopener" tabindex="0"><i class="fa fa-rss" aria-hidden="true"></i>NCSES RSS Feed</a><a  href="http://www.nsf.gov/rss/rss_faq.jsp" title="Follow this link to learn about RSS" rel="noopener" tabindex="0"><span class="sr-only">What is RSS?</span><i class="fa fa-question-circle" aria-hidden="true"></i> <span class="hidden-lg">What is RSS?</span></a></li>
-					<li><a  href="//www.nsf.gov/statistics/contact.cfm" rel="noopener" tabindex="0"><i class="fa fa-envelope" aria-hidden="true"></i><strong>Contact NCSES</strong></a></li>
+					<li><a  href="/contact" rel="noopener" tabindex="0"><i class="fa fa-envelope" aria-hidden="true"></i><strong>Contact NCSES</strong></a></li>
 					</ul>
 				</li>     
 			</ul>
@@ -310,7 +309,7 @@
 			<div class="col-md-4 col-sm-5 text-right">
 				<!-- Page utility buttons --> <div class="btn-group btn-group-sm">
 
-					<span class="btn" style="padding-top:0"><i class="fa fa-envelope" aria-hidden="true"></i><a  href="javascript:window.location.href='mailto:?subject='+document.title+'&amp;body='+escape(window.location.href)" title="Email this page" rel="noopener" tabindex="0"> Email</a></span>
+					<span class="btn" style="padding-top:0"><i class="fa fa-envelope" aria-hidden="true"></i><a  href="javascript:window.location.href="mailto:?subject='+document.title+'&amp;body='+escape(window.location.href)" title="Email this page" rel="noopener" tabindex="0"> Email</a></span>
 					<span class="btn" style="padding-top:0"><i class="fa fa-print" aria-hidden="true"></i><a  href="javascript:window.print();" title="Print this page" rel="noopener" tabindex="0"> Print</a></span>
 					<span class="btn" style="padding-top:0"><i class="fa fa-share" aria-hidden="true"></i><a  href="#" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()" rel="noopener" tabindex="0"> Share</a></span>
 					<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a7c754c22acc913"></script>

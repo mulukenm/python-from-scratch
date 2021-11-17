@@ -11,8 +11,8 @@
 	<link rel="preload" as="font" type="font/woff2" href="/resources/assets/fonts/fontawesome-webfont.woff2?v=4.7.0" crossorigin="true"/>
 	<meta name="description" content="The detailed statistical tables in this report present data from the Annual Business Survey (ABS). The ABS is the primary source of data on research and development of for profit, nonfarm businesses with one to nine employees operating in the 50 U.S. states and the District of Columbia. The ABS also collects data on innovation, technology, intellectual property, and business owner characteristics of business of all sizes. The survey is conducted annually by the Census Bureau for the National Center for Science and Engineering Statistics within the National Science Foundation."/>
 	<meta name="author" content="Audrey Kindlon"/>
-	<link rel="stylesheet" href="/resources/assets/css/dst/dst.css?v=1.78.1" />
-	<script src="/resources/assets/js/dst/dst.concat.js?v=1.78.1"></script>
+	<link rel="stylesheet" href="/resources/assets/css/dst/dst.css?v=1.80.0" />
+	<script src="/resources/assets/js/dst/dst.concat.js?v=1.80.0"></script>
 	<title>Annual Business Survey: Tables for Data Year 2017 | NSF - National Science Foundation</title>
 </head>
 
@@ -152,7 +152,7 @@
 										<li class="dropdown-header">Related Links</li>
 										<li><a  href="http://www.research.gov/" rel="noopener" tabindex="0">Research.gov</a></li>
 										<li><a  href="https://www.fastlane.nsf.gov/" rel="noopener" tabindex="0">FastLane</a></li>
-										<li><a  href="http://par.nsf.gov/" rel="noopener" tabindex="0">NSF Public Access Repository (NSF-PAR)</a></li>
+										<li><a  href="http://beta.nsf.gov/public-access" rel="noopener" tabindex="0">Public Access Initiative</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -163,7 +163,7 @@
 								<li class="col-sm-12 sublinks">
 									<ul>
 										<li><a  href="//www.nsf.gov/publications/" rel="noopener" tabindex="0">All Documents</a></li>
-										<li><a  href="//www.nsf.gov/statistics/reports.cfm" rel="noopener" tabindex="0">National Center for Science and Engineering Statistics (NCSES)</a></li>
+										<li><a  href="https://ncses.nsf.gov/" rel="noopener" tabindex="0">National Center for Science and Engineering Statistics (NCSES)</a></li>
 										<li><a  href="//www.nsf.gov/publications/obtain.jsp" rel="noopener" tabindex="0">Obtaining Documents</a></li>
 										<li><a  href="//www.nsf.gov/publications/ods/" rel="noopener" tabindex="0">Search Documents</a></li>
 									</ul>
@@ -211,7 +211,7 @@
 								</li>
 								<li class="col-sm-6 relatedlinks hidden-xs">
 									<ul>
-										<li><a  href="//www.nsf.gov/od/odi/" rel="noopener" tabindex="0">Office of Diversity and Inclusion</a></li>
+										<li><a  href="//www.nsf.gov/od/oecr/" rel="noopener" tabindex="0">Office of Equity and Civil Rights</a></li>
 										<li><a  href="//www.nsf.gov/staff/orglist.jsp" rel="noopener" tabindex="0">Organization List</a></li>
 										<li><a  href="//www.nsf.gov/about/partners/" rel="noopener" tabindex="0">Partners</a></li>
 										<li><a  href="//www.nsf.gov/about/participant/" rel="noopener" tabindex="0">Remote Participant Support</a></li>
@@ -251,16 +251,15 @@
 					<a  href="//www.nsf.gov/div/index.jsp?div=BCS" rel="noopener" tabindex="0">Behavioral and Cognitive Sciences&nbsp;(BCS)  </a>
 				</li>
 				<li class="dropdown open">
-					<a  href="//www.nsf.gov/statistics" class="dropdown-toggle" role="button" aria-expanded="true" rel="noopener" tabindex="0">National Center for Science and Engineering Statistics&nbsp;(NCSES)</a>
+					<a  href="https://ncses.nsf.gov/" class="dropdown-toggle" role="button" aria-expanded="true" rel="noopener" tabindex="0">National Center for Science and Engineering Statistics&nbsp;(NCSES)</a>
 					<ul class="dropdown-list" role="menu">
-						<li role="menuitem"><a  href="/about" rel="noopener" tabindex="0">About NCSES</a></li>
+						<li role="menuitem"><a  href="https://ncses.nsf.gov/about" rel="noopener" tabindex="0">About NCSES</a></li>
 						<li role="menuitem"><a  href="//www.nsf.gov/statistics/data.cfm" rel="noopener" tabindex="0">Data</a></li>
 						<li role="menuitem"><a  href="//www.nsf.gov/statistics/reports.cfm" rel="noopener" tabindex="0">Publications</a></li>
 						<li role="menuitem"><a  href="//www.nsf.gov/statistics/surveys.cfm" rel="noopener" tabindex="0">Surveys</a></li>
 						<li role="menuitem"><a  href="//www.nsf.gov/statistics/topics.cfm" rel="noopener" tabindex="0">Topics</a></li>
 						<li role="menuitem"><a  href="//www.nsf.gov/statistics/next-releases.cfm" rel="noopener" tabindex="0">Schedule of Next Release Dates</a></li>
 						<li role="menuitem"><a  href="//www.nsf.gov/statistics/current-errata.cfm" rel="noopener" tabindex="0">Errata</a></li>
-						<li role="menuitem"><a  href="//www.nsf.gov/statistics/additional-resources.cfm" rel="noopener" tabindex="0">Additional Resources</a></li>
 					</ul>
 				</li>
 				<li class="dropdown">
@@ -286,7 +285,7 @@
 						</form>
 					</li>             
 					<li class="rssMenu"><a  href="//www.nsf.gov/statistics/rss/srs_rss.xml" title="NCSES RSS Feed" rel="noopener" tabindex="0"><i class="fa fa-rss" aria-hidden="true"></i>NCSES RSS Feed</a><a  href="http://www.nsf.gov/rss/rss_faq.jsp" title="Follow this link to learn about RSS" rel="noopener" tabindex="0"><span class="sr-only">What is RSS?</span><i class="fa fa-question-circle" aria-hidden="true"></i> <span class="hidden-lg">What is RSS?</span></a></li>
-					<li><a  href="/contact" rel="noopener" tabindex="0"><i class="fa fa-envelope" aria-hidden="true"></i><strong>Contact NCSES</strong></a></li>
+					<li><a  href="https://ncses.nsf.gov/contact" rel="noopener" tabindex="0"><i class="fa fa-envelope" aria-hidden="true"></i><strong>Contact NCSES</strong></a></li>
 					</ul>
 				</li>     
 			</ul>
@@ -303,7 +302,7 @@
 					<li><a  href="//www.nsf.gov/" title="National Science Foundation (NSF)" rel="noopener" tabindex="0">Home</a></li>
 					<li><a  href="//www.nsf.gov/about/research_areas.jsp" title="Research Areas - NSF" rel="noopener" tabindex="0">Research Areas</a></li>
 					<li><a  href="//www.nsf.gov/dir/index.jsp?org=SBE" title="Social, Behavioral &amp; Economic Sciences (SBE)" rel="noopener" tabindex="0">SBE</a></li>
-					<li><a  href="//www.nsf.gov/statistics/" title="National Center for Science and Engineering Statistics (NCSES)" rel="noopener" tabindex="0">NCSES</a></li>
+					<li><a  href="https://ncses.nsf.gov/" title="National Center for Science and Engineering Statistics (NCSES)" rel="noopener" tabindex="0">NCSES</a></li>
 				</ol>
 			</div>
 			<div class="col-md-4 col-sm-5 text-right">
@@ -961,7 +960,7 @@
 						<li><a  href="//www.nsf.gov/oig/" rel="noopener" tabindex="0">Inspector General</a></li>
 						<li><a  href="//www.nsf.gov/policies/privacy.jsp" rel="noopener" tabindex="0">Privacy</a></li>
 						<li><a  href="//www.nsf.gov/policies/foia.jsp" rel="noopener" tabindex="0">FOIA</a></li>
-						<li><a  href="//www.nsf.gov/od/odi/nofearact_notice.jsp" rel="noopener" tabindex="0">No FEAR Act</a></li>
+						<li><a  href="//www.nsf.gov/od/oecr/nofearact_notice.jsp" rel="noopener" tabindex="0">No FEAR Act</a></li>
 						<li><a  href="https://www.usa.gov/" rel="noopener" tabindex="0">USA.gov</a></li>
 						<li><a  href="//www.nsf.gov/policies/access.jsp" rel="noopener" tabindex="0">Accessibility</a></li>
 						<li><a  href="//www.nsf.gov/policies/nsf_plain_language.jsp" rel="noopener" tabindex="0">Plain Language</a></li>

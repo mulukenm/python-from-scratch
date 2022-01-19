@@ -11,8 +11,8 @@
 	<link rel="preload" as="font" type="font/woff2" href="/resources/assets/fonts/fontawesome-webfont.woff2?v=4.7.0" crossorigin="true"/>
 	<meta name="description" content="The detailed statistical tables in this report present data from the Annual Business Survey (ABS). The ABS is the primary source of data on research and development of for profit, nonfarm businesses with one to nine employees operating in the 50 U.S. states and the District of Columbia. The ABS also collects data on innovation, technology, intellectual property, and business owner characteristics of business of all sizes. The survey is conducted annually by the Census Bureau for the National Center for Science and Engineering Statistics within the National Science Foundation."/>
 	<meta name="author" content="Audrey Kindlon"/>
-	<link rel="stylesheet" href="/resources/assets/css/dst/dst.css?v=1.80.0" />
-	<script src="/resources/assets/js/dst/dst.concat.js?v=1.80.0"></script>
+	<link rel="stylesheet" href="/resources/assets/css/dst/dst.css?v=1.82.1" />
+	<script src="/resources/assets/js/dst/dst.concat.js?v=1.82.1"></script>
 	<title>Annual Business Survey: Tables for Data Year 2017 | NSF - National Science Foundation</title>
 </head>
 
@@ -44,8 +44,7 @@
 			</nav>
 		  
 		  <form id="search" name="searchForm" method="get" accept-charset="UTF-8" action="https://search.nsf.gov/search/docs">
-			<div class="input-group-sm" id="searchbar">
-				<input type="text" class="form-control" placeholder="Search" name="query" title="search" />
+			<div class="input-group-sm" id="searchbar"> <input type="text" class="form-control" placeholder="Search" name="query" title="search" />
 				<input id="affiliate" name="affiliate" type="hidden" value="nsf_statistics" />
 				<input id="dc" name="dc" type="hidden" value="2660" /><!--Use the Statistics Collection (2660) --> <span class="input-group-btn">
 					<button class="btn btn-default" type="submit" title="Submit">
@@ -64,8 +63,7 @@
 	<div id="searchbarmobilecontainer" style="display: none;"></div>
 	<div class="row hidden-print">
 		<div class="col-md-12">
-		  <!-- top nav --> <div class="navbar navbar-default navbar-static-top main navbar-collapse collapse" id="navbarid">
-				<div>
+		  <!-- top nav --> <div class="navbar navbar-default navbar-static-top main navbar-collapse collapse" id="navbarid"> <div>
 					<ul class="nav nav-justified">
 					<a  href="//www.nsf.gov/nsb/" class="nsb-blue-link text-hide hidden-xs" rel="noopener" tabindex="0">NSB</a>
 						<li class="visible-xs">
@@ -241,9 +239,7 @@
 			</div>
 		</div>
 	</div> <!-- /topnav fragment --> <div class="row">
-	<div id="leftnavdividcontainer">
-		<div class="col-md-3 hidden-print" id="leftnavdivid">
-			<ul class="nav nav-stacked left-nav navbar-collapse collapse" role="navigation" id="left-nav">
+	<div id="leftnavdividcontainer"> <div class="col-md-3 hidden-print" id="leftnavdivid"> <ul class="nav nav-stacked left-nav navbar-collapse collapse" role="navigation" id="left-nav">
 				<li><h2>Social, Behavioral &amp; Economic Sciences (SBE)</h2></li>
 				<li class="dropdown">
 					<a  href="//www.nsf.gov/dir/index.jsp?org=SBE" rel="noopener" tabindex="0">Social, Behavioral &amp; Economic Sciences (SBE)&nbsp;Home</a>
@@ -293,11 +289,7 @@
 	</div>
 
 
-			<div class="col-md-9" id="pageContent">  
-
-	<div id="page-utilities-desktop-container">
-		<div class="row hidden-print" id="page-utilities">
-			<div class="col-md-8 col-sm-7">
+			<div class="col-md-9" id="pageContent"> <div id="page-utilities-desktop-container"> <div class="row hidden-print" id="page-utilities"> <div class="col-md-8 col-sm-7">
 				<!--Breadcrumbs--> <ol class="breadcrumb hidden-xs hidden-sm">
 					<li><a  href="//www.nsf.gov/" title="National Science Foundation (NSF)" rel="noopener" tabindex="0">Home</a></li>
 					<li><a  href="//www.nsf.gov/about/research_areas.jsp" title="Research Areas - NSF" rel="noopener" tabindex="0">Research Areas</a></li>
@@ -320,12 +312,10 @@
 
 
 				<main role="main" id="skip-link-destination">
-					<div id="pageHead" class="content clearfix panel panel-orange">
-								<div class="row">
+					<div id="pageHead" class="content clearfix panel panel-orange"> <div class="row">
 									<div class="col-sm-12">
 										<h1>Annual Business Survey: Tables for Data Year 2017</h1>
-										<div id="front-meta">
-											<span>Detailed Statistical Tables | NSF 21-303</span>
+										<div id="front-meta"> <span>Detailed Statistical Tables | NSF 21-303</span>
 											<span> | November 24, 2020</span>
 											<span> | </span>
 											<a  href="/pubs/nsf21303/assets/nsf21303.pdf" rel="noopener" tabindex="0">
@@ -343,8 +333,7 @@
 			<span class="circle" aria-label="Toggle"></span>
 		</a>
 
-		<div id="section4530" class="panel-collapse collapse">
-				<div><p>The Annual Business Survey (ABS) is the primary source of information on domestic research and development expenditures and the R&amp;D workforce for companies with one to nine employees operating in the 50 U.S. states and the District of Columbia. The survey is conducted by the U.S. Census Bureau in accordance with an interagency agreement with the National Center for Science and Engineering Statistics (NCSES) within the National Science Foundation. In addition to R&amp;D, the ABS collects data on innovation, technology, intellectual property, and business owner characteristics. The first year of data collection for the ABS is 2017.</p><p>The statistical tables included in this report supplement analytical InfoBriefs from NCSES, available at<span style="color:#333333;"> </span><a  href="https://ncses.nsf.gov/pubs/nsf21302/" rel="noopener" tabindex="0">https://ncses.nsf.gov/pubs/nsf21302/</a>.</p><p>The target population for the ABS consists of companies with at least one establishment physically located in the United States that are in business during the survey year and data collection period and have receipts of $1,000 or more.</p><p>The ABS includes questions from multiple reference periods. For the first cycle of the ABS the title of the survey used the reference year (2017). However, subsequent cycles of the ABS will use the collection year rather than reference year in the survey title. So the second cycle of the ABS will be referred to as the 2019 ABS and will include data for the reference year 2018.</p><p>The 2017 ABS sampling universe was constructed from the final 2016 Business Register. The Business Register is the Census Bureau’s comprehensive database of U.S. business establishments and companies, and combines data from business tax returns with data collected in the Economic Census and other Census Bureau surveys. The 2016 Business Register includes sole proprietorships, partnerships, and corporations reporting business activity to the Internal Revenue Service (IRS).</p></div>
+		<div id="section4530" class="panel-collapse collapse"> <div><p>The Annual Business Survey (ABS) is the primary source of information on domestic research and development expenditures and the R&amp;D workforce for companies with one to nine employees operating in the 50 U.S. states and the District of Columbia. The survey is conducted by the U.S. Census Bureau in accordance with an interagency agreement with the National Center for Science and Engineering Statistics (NCSES) within the National Science Foundation. In addition to R&amp;D, the ABS collects data on innovation, technology, intellectual property, and business owner characteristics. The first year of data collection for the ABS is 2017.</p><p>The statistical tables included in this report supplement analytical InfoBriefs from NCSES, available at<span style="color:#333333;"> </span><a  href="https://ncses.nsf.gov/pubs/nsf21302/" rel="noopener" tabindex="0">https://ncses.nsf.gov/pubs/nsf21302/</a>.</p><p>The target population for the ABS consists of companies with at least one establishment physically located in the United States that are in business during the survey year and data collection period and have receipts of $1,000 or more.</p><p>The ABS includes questions from multiple reference periods. For the first cycle of the ABS the title of the survey used the reference year (2017). However, subsequent cycles of the ABS will use the collection year rather than reference year in the survey title. So the second cycle of the ABS will be referred to as the 2019 ABS and will include data for the reference year 2018.</p><p>The 2017 ABS sampling universe was constructed from the final 2016 Business Register. The Business Register is the Census Bureau’s comprehensive database of U.S. business establishments and companies, and combines data from business tax returns with data collected in the Economic Census and other Census Bureau surveys. The 2016 Business Register includes sole proprietorships, partnerships, and corporations reporting business activity to the Internal Revenue Service (IRS).</p></div>
 
 			<div class="btotop">
 				<a  href="#general-notes" rel="noopener" tabindex="0"><span class="lbl">BACK TO TOP</span><span class="ncses-nav-icon-arrow-up"></span></a>
@@ -356,13 +345,11 @@
 										<div class="col-sm-12">
 											<div>
 
-			<div id="sectiontop4531" class="section-body">
-				<div class="row">					<section id="data-tables" class="tables-section">
+			<div id="sectiontop4531" class="section-body"> <div class="row">					<section id="data-tables" class="tables-section">
 						<a  href="#section4531" class="collapsed" data-toggle="collapse" rel="noopener" tabindex="0">
 							<span class="circle" aria-label="Toggle"></span>							<h2>Data Tables</h2>
 						</a>
-						<div id="section4531" class="panel-collapse collapse">
-				<div><p><br></p></div>
+						<div id="section4531" class="panel-collapse collapse"> <div><p><br></p></div>
 
 
 							<div class="zip-download">
@@ -490,8 +477,7 @@
 			<span class="circle" aria-label="Toggle"></span>
 		</a>
 
-		<div id="section4617" class="panel-collapse collapse">
-				<div></div>
+		<div id="section4617" class="panel-collapse collapse"> <div></div>
 
 			<div class="subsection-list clearfix">
 				<ul class="subsection-listing">
@@ -736,13 +722,11 @@
 										<div class="col-sm-12">
 											<div>
 
-			<div id="sectiontop4540" class="section-body">
-				<div class="row">					<section id="technical-tables" class="tables-section">
+			<div id="sectiontop4540" class="section-body"> <div class="row">					<section id="technical-tables" class="tables-section">
 						<a  href="#section4540" class="collapsed" data-toggle="collapse" rel="noopener" tabindex="0">
 							<span class="circle" aria-label="Toggle"></span>							<h2>Technical Tables</h2>
 						</a>
-						<div id="section4540" class="panel-collapse collapse">
-				<div><br><p></p></div>
+						<div id="section4540" class="panel-collapse collapse"> <div><br><p></p></div>
 
 
 							<div class="zip-download">
@@ -770,8 +754,7 @@
 			<span class="circle" aria-label="Toggle"></span>
 		</a>
 
-		<div id="section4541" class="panel-collapse collapse">
-				<div></div>
+		<div id="section4541" class="panel-collapse collapse"> <div></div>
 
 			<div class="subsection-list clearfix">
 				<ul class="subsection-listing">
@@ -816,8 +799,7 @@
 			<span class="circle" aria-label="Toggle"></span>
 		</a>
 
-		<div id="section4544" class="panel-collapse collapse">
-				<div></div>
+		<div id="section4544" class="panel-collapse collapse"> <div></div>
 
 			<div class="subsection-list clearfix">
 				<ul class="subsection-listing">
@@ -854,8 +836,7 @@
 	</section>
 	</div>
 										</div> <!-- /.col-sm-12 --> </div> <!-- /.row --> <div class="row">
-									<div id="read-more" class="col-xs-12">
-										<div>
+									<div id="read-more" class="col-xs-12"> <div>
 											<p>Read more about the source:<br/>
 											<a  href="https://www.nsf.gov/statistics/srvyabs" rel="noopener" tabindex="0">Annual Business Survey</a>.</p>
 										</div>

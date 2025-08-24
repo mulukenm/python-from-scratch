@@ -1,4 +1,4 @@
-# python-from-scratch
+# Python from Scratch
 
 The notebooks in this repository are compilation of codes to learn Python from scratch. The codes are focused on Python's application to data science and assembled from different sources including books and other online courses.
 
